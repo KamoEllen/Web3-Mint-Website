@@ -3,7 +3,7 @@ npx create react-app full-mint-website
 npm i -D hardhat
 npx hardhat 
 -basic sample project , enter *4
-npm i @oppenzeppelin/contracts
+npm install oppenzeppelin/contracts
 npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion
 app.text.js,logo.svg,reportWe.js = delete
 in index.js , delete line 5 'import reportwe' , line 13-15
